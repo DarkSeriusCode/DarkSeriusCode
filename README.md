@@ -8,4 +8,4 @@
 - 🌊 In one's own time: I swim
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSeriusCode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSeriusCode)](https://github.com/anuraghazra/github-readme-stats)
