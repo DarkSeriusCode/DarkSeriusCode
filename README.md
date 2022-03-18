@@ -1,3 +1,7 @@
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif"/>
+</div>
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on **myself**
