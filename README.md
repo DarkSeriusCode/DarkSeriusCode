@@ -14,6 +14,8 @@
 - 📫 Contact me: darkseriusw@gmail.com
 - 🏊 In my free time I swim and study something.
 
+---
+
 # 🛠️ Languages and tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="C" width=7% height=7%>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt="C++" width=7% height=7%>&nbsp;
