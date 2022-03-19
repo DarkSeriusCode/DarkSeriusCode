@@ -4,7 +4,7 @@
 </div>
 
 <div id="bages" align="center">
-    <img src="https://komarev.com/ghpvc/?username=DarkSeriusCode&style=flat-square&color=gray" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=DarkSeriusCode&style=flat-square&color=gray" alt="Views"/>
 </div>
 
 ---
