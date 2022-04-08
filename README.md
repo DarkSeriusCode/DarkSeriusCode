@@ -10,7 +10,7 @@
 ---
 # 🖥️ About Me
 - 🐻 Just animal programmer, no more.
-- ✍️ Learn every interesting thing.
+- ✍️ Study every interesting thing.
 - 📫 Contact me: darkseriusw@gmail.com
 - 🏊 In my free time I swim and study something.
 
