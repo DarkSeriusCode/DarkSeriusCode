@@ -1,5 +1,4 @@
 <div id="header" align="center">
-    [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
     <h1>Hi everybody! 👋</h1>&nbsp;
     <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif"/>
 </div>
