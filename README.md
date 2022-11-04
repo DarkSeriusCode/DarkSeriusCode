@@ -5,14 +5,8 @@
 
 <div id="bages" align="center">
     <img src="https://komarev.com/ghpvc/?username=DarkSeriusCode&style=flat-square&color=gray" alt="Views"/>
+    <img src="https://github.com/vshymanskyy/StandWithUkraine/blob/main/badges/StandWithUkraine.svg" alt="#StandWithUkraine"/>
 </div>
-
----
-# 🖥️ About Me
-- 🐻 Just animal programmer, no more.
-- ✍️ Study every interesting thing.
-- 📫 Contact me: darkseriusw@gmail.com
-- 🏊 In my free time I swim and study something.
 
 ---
 
