@@ -19,5 +19,5 @@
 
 ---
 
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSeriusCode&theme=discord_old_blurple&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=DarkSeriusCode&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSeriusCode&langs_count=6&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=DarkSeriusCode&langs_count=10&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
