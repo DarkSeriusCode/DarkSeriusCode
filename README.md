@@ -21,7 +21,7 @@
 
 <div id="footer" align="center">
     <span>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSeriusCode&langs_count=6&theme=discord_old_blurple&layout=compact" alt="Lang stats"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSeriusCode&langs_count=6&theme=discord_old_blurple&layout=compact&card_width=250" alt="Lang stats"/>
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DarkSeriusCode&langs_count=6&theme=discord_old_blurple&hide_progress=true&layout=compact" alt="Wakatime stats" />
     </span>
     <img src="https://github.com/DarkSeriusCode/DarkSeriusCode/blob/main/footer.jpg" alt="Cure anime girl ^_^" />
