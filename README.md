@@ -14,7 +14,6 @@
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
     <br />
     <img src="https://komarev.com/ghpvc/?username=DarkSeriusCode&style=flat-square&color=gray" alt="Views"/>
-    <img src="https://github.com/vshymanskyy/StandWithUkraine/blob/main/badges/StandWithUkraine.svg" alt="#StandWithUkraine"/>
 </div>
 
 ---
