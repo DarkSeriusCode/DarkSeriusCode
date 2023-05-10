@@ -1,6 +1,6 @@
 <div id="header" align="center">
-    <h1>I use Arch btw 🏳️‍⚧️</h1>
-    <img src="https://media.tenor.com/HSZBpWkM3pcAAAAC/mio-akiyama-kon.gif"/>
+    <h1>Hello everynyan  ฅ^•ﻌ•^ฅ</h1>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2IxZDI2NzE1ZGJlOWEyOGM2NTYwNTlmMjk4ZDgxNTUxNWU3ODNmMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Qh7WgUju8KYRG/giphy.gif" alt="Taiga Aisaka T GIF">
 </div>
 
 <div id="bages" align="center">
