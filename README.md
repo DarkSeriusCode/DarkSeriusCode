@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
     <br />
     <img src="https://komarev.com/ghpvc/?username=DarkSeriusCode&style=flat-square&color=gray" alt="Views"/>
+    <a href="https://wakatime.com/@6b6b5359-27ef-41ab-8f90-7dd1995c9d39"><img src="https://wakatime.com/badge/user/6b6b5359-27ef-41ab-8f90-7dd1995c9d39.svg" alt="Total time coded since Aug 27 2021" /></a>
 </div>
 
 ---
