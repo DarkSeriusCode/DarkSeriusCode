@@ -1,7 +1,6 @@
 <div id="header" align="center">
     <h1>Hello everynyan  ฅ^•ﻌ•^ฅ</h1>
-    <img src="https://github.com/DarkSeriusCode/DarkSeriusCode/blob/main/footer.jpg" alt="Cure anime girl ^_^" width="50%" height="50%"/>
-
+    <img src="https://github.com/DarkSeriusCode/DarkSeriusCode/blob/main/footer.jpg" alt="Cure anime girl ^_^" width="70%" height="70%"/>
 
 <div id="bages" align="center">
     <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" />
@@ -15,8 +14,6 @@
     <img src="https://komarev.com/ghpvc/?username=DarkSeriusCode&style=flat-square&color=gray" alt="Views"/>
     <a href="https://wakatime.com/@6b6b5359-27ef-41ab-8f90-7dd1995c9d39"><img src="https://wakatime.com/badge/user/6b6b5359-27ef-41ab-8f90-7dd1995c9d39.svg" alt="Total time coded since Aug 27 2021" /></a>
 </div>
-
----
 
 <div id="footer" align="center">
     <span>
